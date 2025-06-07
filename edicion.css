@@ -1,0 +1,40 @@
+body {   
+    background-color: #ee7979;
+
+    }
+h1.hover{
+    transform:scale(1.7);
+}
+
+h1 {
+text-align: center;
+color: rgb(13, 20, 119);
+border: 3px solid rgb(110, 18, 69);
+font-size: 50px
+}
+p {
+   text-align: center;
+   color: rgb(0, 0, 0);
+   font-size: 25px;
+   border: 2px solid 110, 18, 69low;
+   padding: 20px;
+  }
+  h2 {
+     color: rgb(73, 11, 70);
+     text-align: center;
+     }
+
+h3 {
+color: rgb(99, 13, 77);
+text-align: center;
+border: 3px solid #18ebee;
+font-size: 25px;
+padding: 10px;
+
+   }
+
+ul {
+   font-size:25px;
+   color:white;
+  }
+
